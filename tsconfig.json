@@ -12,7 +12,9 @@
     "preserveConstEnums": true,
     "skipLibCheck": true,
     "strictNullChecks": true,
-    "target": "es2019"
+    "target": "es2019",
+    "rootDir": "./src",
+    "outDir": "./dist"
   },
   "include": ["**/*.ts"]
 }
